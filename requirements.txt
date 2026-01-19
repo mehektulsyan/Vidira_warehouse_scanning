@@ -1,8 +1,7 @@
 streamlit
-streamlit-webrtc 
-opencv-python-headless 
-numpy 
-pillow 
-pytesseract 
-pyzbar 
+streamlit-webrtc
+opencv-python-headless
+numpy
+pillow
 pandas
+requests
